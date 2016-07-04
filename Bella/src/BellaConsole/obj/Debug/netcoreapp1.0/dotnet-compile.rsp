@@ -88,5 +88,6 @@
 --reference:C:\Users\MrBear\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 C:\Users\MrBear\Documents\GitHub\Bella\Bella\src\BellaConsole\Program.cs
 C:\Users\MrBear\Documents\GitHub\Bella\Bella\src\BellaConsole\BAL\Commander.cs
+C:\Users\MrBear\Documents\GitHub\Bella\Bella\src\BellaConsole\BAL\Enums\ReturningCommands.cs
 C:\Users\MrBear\Documents\GitHub\Bella\Bella\src\BellaConsole\Properties\AssemblyInfo.cs
 C:\Users\MrBear\Documents\GitHub\Bella\Bella\src\BellaConsole\UserInterface\UserInterface.cs
