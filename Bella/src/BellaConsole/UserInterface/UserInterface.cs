@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BellaConsole.BAL;
 
 namespace BellaConsole.UserInterface
 {
@@ -13,6 +14,10 @@ namespace BellaConsole.UserInterface
 
         public bool LaunchApplication()
         {
+            while (true)
+            {
+            }
+
             return true;
         }
     }
