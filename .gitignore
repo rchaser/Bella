@@ -1,10 +1,4 @@
 *.dll
-*.IncrementalCache
 *.rsp
-*.dll
-*.dll
-*.rsp
-Bella/src/BellaConsole/bin/Debug/netcoreapp1.0/BellaConsole.dll
-*.dll
-*.dll
 *.suo
+*.IncrementalCache
